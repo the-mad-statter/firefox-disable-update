@@ -3,4 +3,4 @@ Policies.json file to Disallow Firefox Developer Edition App Update
 
 # Install
 
-Place 'policies.json' in 'C:\Users\schuelke\Desktop\Program Files\Firefox Developer Edition\distribution'
+Place 'policies.json' in 'C:\Program Files\Firefox Developer Edition\distribution'
